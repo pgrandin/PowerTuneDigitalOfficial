@@ -1,6 +1,13 @@
 TEMPLATE = app
 
-QT += qml quick serialport serialbus network charts location positioning sensors multimedia widgets testlib
+QT += qml quick serialport serialbus network charts location positioning sensors multimedia widgets
+
+CONFIG(debug, debug|release) {
+    # Include testlib only for debug builds
+    QT += testlib
+    DEFINES += HAVE_TESTLIB
+    SOURCES += tests.cpp
+}
 
 CONFIG += c++11
 
@@ -36,7 +43,6 @@ SOURCES += main.cpp \
     udpreceiver.cpp \
     arduino.cpp \
     wifiscanner.cpp
-
 
 RESOURCES += qml.qrc
 
