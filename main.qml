@@ -124,6 +124,7 @@ ApplicationWindow {
 
     SwipeView {
         id: dashView
+        objectName: "dashView"
 
         currentIndex: 0
 
@@ -751,5 +752,3 @@ ApplicationWindow {
             }
         }
     }
-
-

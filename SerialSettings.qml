@@ -11,6 +11,7 @@ import "qrc:/Translator.js" as Translator
 
 Quick1.TabView {
     id: tabView
+    objectName: "tabView"
     anchors.fill: parent
 
     property int lastdashamount

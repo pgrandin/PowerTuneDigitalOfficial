@@ -1,6 +1,6 @@
 TEMPLATE = app
 
-QT += qml quick serialport serialbus network charts location positioning sensors multimedia widgets
+QT += qml quick serialport serialbus network charts location positioning sensors multimedia widgets testlib
 
 CONFIG += c++11
 
@@ -76,5 +76,3 @@ DISTFILES += \
     KTracks/Australia/stupid2.txt \
     KTracks/Australia/stupid3.txt \
     KTracks/Australia/stupid4.txt
-
-
