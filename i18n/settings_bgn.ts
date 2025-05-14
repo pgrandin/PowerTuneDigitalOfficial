@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="ar_EG">
+<TS version="2.1" language="bgn">
 <context>
     <name>DashSelector</name>
     <message>
         <location filename="../Settings/DashSelector.qml" line="113"/>
         <source>ActiveDashboards</source>
-        <translation>‍koko</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14,17 +13,17 @@
     <message>
         <location filename="../Settings/main.qml" line="120"/>
         <source>ECU Serial Port</source>
-        <translation>Koko</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="157"/>
         <source>GPS Port</source>
-        <translation>‍koko</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="183"/>
         <source>Speed units</source>
-        <translation>Koko</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="192"/>
@@ -44,12 +43,12 @@
     <message>
         <location filename="../Settings/main.qml" line="224"/>
         <source>°C</source>
-        <translation>°C</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="224"/>
         <source>°F</source>
-        <translation>°F</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="246"/>
@@ -59,7 +58,7 @@
     <message>
         <location filename="../Settings/main.qml" line="275"/>
         <source>ECU Selection</source>
-        <translation>‍koko</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="307"/>
@@ -101,7 +100,7 @@
     <message>
         <location filename="../Settings/main.qml" line="404"/>
         <source>Serial Status</source>
-        <translation>Koko</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="429"/>
