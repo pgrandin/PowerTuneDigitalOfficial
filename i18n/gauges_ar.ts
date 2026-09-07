@@ -6,7 +6,7 @@
     <message>
         <location filename="../Gauges/Camera.qml" line="126"/>
         <source>G</source>
-        <translation type="unfinished"></translation>
+        <translation>مفتاح الكاميرا</translation>
     </message>
     <message>
         <location filename="../Gauges/Camera.qml" line="154"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="../Gauges/Cluster.qml" line="928"/>
         <source>Main text color:</source>
-        <translation type="unfinished"></translation>
+        <translation>لون نص المجموعة الرئيسيه</translation>
     </message>
     <message>
         <location filename="../Gauges/Cluster.qml" line="1043"/>
@@ -148,7 +148,7 @@
     <message>
         <location filename="../Gauges/HaltechFlags.qml" line="225"/>
         <source>Torque Red Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>فطع عزم الدوران:هالتك/فلاجز/دوران</translation>
     </message>
     <message>
         <location filename="../Gauges/HaltechFlags.qml" line="238"/>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../Gauges/HaltechFlags.qml" line="286"/>
         <source>R.Indicator</source>
-        <translation type="unfinished"></translation>
+        <translation>مؤشر هالتك فلاجز آر</translation>
     </message>
     <message>
         <location filename="../Gauges/HaltechFlags.qml" line="298"/>
@@ -183,7 +183,7 @@
     <message>
         <location filename="../Gauges/HaltechFlags.qml" line="310"/>
         <source>Hand Brake</source>
-        <translation type="unfinished"></translation>
+        <translation>مفاتيح هالتك/فلاجز/يدالفرامل</translation>
     </message>
 </context>
 <context>
@@ -247,7 +247,7 @@
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="383"/>
         <source>Start Stop values</source>
-        <translation type="unfinished"></translation>
+        <translation>قيم بدايه ونهايه المقياس الدائرى</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="388"/>
@@ -381,7 +381,7 @@
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1034"/>
         <source>Middle needle trail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مسار الإبرة الوسطى ذو المقياس المستدير</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1070"/>
@@ -476,7 +476,7 @@
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1712"/>
         <source>Label inactive color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مفتاح لوم غير نشط لملصق المقياس الدائرى</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1772"/>
@@ -539,7 +539,7 @@
     <message>
         <location filename="../Gauges/Screentoggle.qml" line="37"/>
         <source>Press to switch off screen</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل الشاشة اضغط لايقاف/تشغيل الشاشة</translation>
     </message>
 </context>
 <context>
@@ -547,7 +547,7 @@
     <message>
         <location filename="../Gauges/Squaregauge.qml" line="376"/>
         <source>Change gauge size</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير حجم المقياس المربع</translation>
     </message>
     <message>
         <location filename="../Gauges/Squaregauge.qml" line="381"/>
@@ -622,7 +622,7 @@
     <message>
         <location filename="../Gauges/Squaregauge.qml" line="521"/>
         <source>Change unit symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>رمز وحدة تغيير المقياس المربع</translation>
     </message>
     <message>
         <location filename="../Gauges/Squaregauge.qml" line="526"/>
@@ -726,7 +726,7 @@
     <message>
         <location filename="../Gauges/Statepicture.qml" line="139"/>
         <source>Image on</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح صوره الحالة</translation>
     </message>
     <message>
         <location filename="../Gauges/Statepicture.qml" line="168"/>
@@ -897,7 +897,7 @@
     <message>
         <location filename="../Gauges/Userdash1.qml" line="1455"/>
         <source>Close menu</source>
-        <translation type="unfinished"></translation>
+        <translation>اغلاق القائمه للمستخدم</translation>
     </message>
 </context>
 <context>
@@ -931,7 +931,7 @@
         <location filename="../Gauges/Userdash2.qml" line="507"/>
         <location filename="../Gauges/Userdash2.qml" line="520"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Image user control panel key</translation>
     </message>
     <message>
         <location filename="../Gauges/Userdash2.qml" line="320"/>
@@ -1028,7 +1028,7 @@
     <message>
         <location filename="../Gauges/Userdash2.qml" line="1156"/>
         <source>Backround color</source>
-        <translation type="unfinished"></translation>
+        <translation>مفاتيح لون خلفية لوحة التحكم ٢</translation>
     </message>
     <message>
         <location filename="../Gauges/Userdash2.qml" line="1260"/>
@@ -1068,7 +1068,7 @@
         <location filename="../Gauges/Userdash3.qml" line="280"/>
         <location filename="../Gauges/Userdash3.qml" line="373"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>User control panel / None</translation>
     </message>
     <message>
         <location filename="../Gauges/Userdash3.qml" line="293"/>
@@ -1129,7 +1129,7 @@
     <message>
         <location filename="../Gauges/Userdash3.qml" line="536"/>
         <source>GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>لوحة تحكم المستخدم ثري جى اي اف</translation>
     </message>
     <message>
         <location filename="../Gauges/Userdash3.qml" line="549"/>

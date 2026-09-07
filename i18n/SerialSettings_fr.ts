@@ -6,7 +6,7 @@
     <message>
         <location filename="../SerialSettings.qml" line="57"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Principal</translation>
     </message>
     <message>
         <location filename="../SerialSettings.qml" line="64"/>
@@ -26,12 +26,12 @@
     <message>
         <location filename="../SerialSettings.qml" line="77"/>
         <source>Speedtab</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse</translation>
     </message>
     <message>
         <location filename="../SerialSettings.qml" line="88"/>
         <source>RPM2</source>
-        <translation type="unfinished"></translation>
+        <translation>TPM</translation>
     </message>
     <message>
         <location filename="../SerialSettings.qml" line="93"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../SerialSettings.qml" line="103"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Réseau</translation>
     </message>
     <message>
         <location filename="../SerialSettings.qml" line="109"/>

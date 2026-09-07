@@ -6,7 +6,7 @@
     <message>
         <location filename="../Gauges/Camera.qml" line="126"/>
         <source>G</source>
-        <translation type="unfinished"></translation>
+        <translation>				&#xa0;	</translation>
     </message>
     <message>
         <location filename="../Gauges/Camera.qml" line="154"/>

@@ -1,214 +1,214 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TS version="2.1" language="de_DE">
 <context>
     <name>Camera</name>
     <message>
-        <location filename="../Gauges/Camera.qml" line="126" />
+        <location filename="../Gauges/Camera.qml" line="126"/>
         <source>G</source>
-        <translation />
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Gauges/Camera.qml" line="154" />
+        <location filename="../Gauges/Camera.qml" line="154"/>
         <source>THR</source>
-        <translation />
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>Cluster</name>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="496" />
+        <location filename="../Gauges/Cluster.qml" line="496"/>
         <source>ADD</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="509" />
+        <location filename="../Gauges/Cluster.qml" line="509"/>
         <source>SAVE</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="545" />
+        <location filename="../Gauges/Cluster.qml" line="545"/>
         <source>COLORS</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="805" />
+        <location filename="../Gauges/Cluster.qml" line="805"/>
         <source>Frame color:</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="809" />
+        <location filename="../Gauges/Cluster.qml" line="809"/>
         <source>Titlebar color:</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="813" />
+        <location filename="../Gauges/Cluster.qml" line="813"/>
         <source>Backround color:</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="920" />
+        <location filename="../Gauges/Cluster.qml" line="920"/>
         <source>Bargauge color:</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="924" />
+        <location filename="../Gauges/Cluster.qml" line="924"/>
         <source>Title text color:</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="928" />
+        <location filename="../Gauges/Cluster.qml" line="928"/>
         <source>Main text color:</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Cluster.qml" line="1043" />
+        <location filename="../Gauges/Cluster.qml" line="1043"/>
         <source>CLOSE</source>
-        <translation />
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>HaltechFlags</name>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="26" />
+        <location filename="../Gauges/HaltechFlags.qml" line="26"/>
         <source>NOS SW</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="39" />
+        <location filename="../Gauges/HaltechFlags.qml" line="39"/>
         <source>NOS</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="55" />
+        <location filename="../Gauges/HaltechFlags.qml" line="55"/>
         <source>Gear SW</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="68" />
+        <location filename="../Gauges/HaltechFlags.qml" line="68"/>
         <source>DecelCut</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="83" />
+        <location filename="../Gauges/HaltechFlags.qml" line="83"/>
         <source>Tr.Thro</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="95" />
+        <location filename="../Gauges/HaltechFlags.qml" line="95"/>
         <source>Brake</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="111" />
+        <location filename="../Gauges/HaltechFlags.qml" line="111"/>
         <source>Clutch</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="123" />
-        <location filename="../Gauges/HaltechFlags.qml" line="322" />
+        <location filename="../Gauges/HaltechFlags.qml" line="123"/>
+        <location filename="../Gauges/HaltechFlags.qml" line="322"/>
         <source>Reserved</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="135" />
+        <location filename="../Gauges/HaltechFlags.qml" line="135"/>
         <source>ALag Launch</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="148" />
+        <location filename="../Gauges/HaltechFlags.qml" line="148"/>
         <source>Antilag SW</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="160" />
+        <location filename="../Gauges/HaltechFlags.qml" line="160"/>
         <source>RevLim SW</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="173" />
+        <location filename="../Gauges/HaltechFlags.qml" line="173"/>
         <source>R A.Lag SW</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="189" />
+        <location filename="../Gauges/HaltechFlags.qml" line="189"/>
         <source>Flat Shift</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="201" />
+        <location filename="../Gauges/HaltechFlags.qml" line="201"/>
         <source>Timed Duty</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="213" />
+        <location filename="../Gauges/HaltechFlags.qml" line="213"/>
         <source>Torque Red</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="225" />
+        <location filename="../Gauges/HaltechFlags.qml" line="225"/>
         <source>Torque Red Cut</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="238" />
+        <location filename="../Gauges/HaltechFlags.qml" line="238"/>
         <source>MIL</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="250" />
+        <location filename="../Gauges/HaltechFlags.qml" line="250"/>
         <source>Batt. Light</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="262" />
+        <location filename="../Gauges/HaltechFlags.qml" line="262"/>
         <source>Limp Mode</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="274" />
+        <location filename="../Gauges/HaltechFlags.qml" line="274"/>
         <source>L.Indicator</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="286" />
+        <location filename="../Gauges/HaltechFlags.qml" line="286"/>
         <source>R.Indicator</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="298" />
+        <location filename="../Gauges/HaltechFlags.qml" line="298"/>
         <source>High Beam</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/HaltechFlags.qml" line="310" />
+        <location filename="../Gauges/HaltechFlags.qml" line="310"/>
         <source>Hand Brake</source>
-        <translation />
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>MyTextLabel</name>
     <message>
-        <location filename="../Gauges/MyTextLabel.qml" line="206" />
+        <location filename="../Gauges/MyTextLabel.qml" line="206"/>
         <source>Warn value high</source>
         <translation>Oberer Warnungs Wert</translation>
     </message>
     <message>
-        <location filename="../Gauges/MyTextLabel.qml" line="239" />
+        <location filename="../Gauges/MyTextLabel.qml" line="239"/>
         <source>Warn value low</source>
         <translation>Unterer Warnungs Wert</translation>
     </message>
     <message>
-        <location filename="../Gauges/MyTextLabel.qml" line="271" />
+        <location filename="../Gauges/MyTextLabel.qml" line="271"/>
         <source>Use Datasource</source>
         <translation>Benutze Datenquelle</translation>
     </message>
     <message>
-        <location filename="../Gauges/MyTextLabel.qml" line="281" />
+        <location filename="../Gauges/MyTextLabel.qml" line="281"/>
         <source>Delete</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/MyTextLabel.qml" line="287" />
+        <location filename="../Gauges/MyTextLabel.qml" line="287"/>
         <source>Close</source>
         <translation>Schliessen</translation>
     </message>
@@ -216,12 +216,12 @@
 <context>
     <name>Picture</name>
     <message>
-        <location filename="../Gauges/Picture.qml" line="109" />
+        <location filename="../Gauges/Picture.qml" line="109"/>
         <source>Delete image</source>
         <translation>Bild löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Picture.qml" line="115" />
+        <location filename="../Gauges/Picture.qml" line="115"/>
         <source>Close</source>
         <translation>Schliessen</translation>
     </message>
@@ -229,306 +229,306 @@
 <context>
     <name>RoundGauge</name>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="363" />
+        <location filename="../Gauges/RoundGauge.qml" line="363"/>
         <source>Test sweep</source>
         <translation>Nadel Test</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="370" />
+        <location filename="../Gauges/RoundGauge.qml" line="370"/>
         <source>Datasource</source>
         <translation>Datenquelle</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="376" />
+        <location filename="../Gauges/RoundGauge.qml" line="376"/>
         <source>Size and ring</source>
         <translation>Größe und Ring</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="383" />
+        <location filename="../Gauges/RoundGauge.qml" line="383"/>
         <source>Start Stop values</source>
         <translation>Start Stop Werte</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="388" />
+        <location filename="../Gauges/RoundGauge.qml" line="388"/>
         <source>Needle</source>
         <translation>Nadel</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="397" />
+        <location filename="../Gauges/RoundGauge.qml" line="397"/>
         <source>Needle trail</source>
         <translation>Nadel Schweif</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="407" />
+        <location filename="../Gauges/RoundGauge.qml" line="407"/>
         <source>Minor ticks</source>
         <translation>Untergeordnete Ticks</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="416" />
+        <location filename="../Gauges/RoundGauge.qml" line="416"/>
         <source>Major ticks</source>
         <translation>Haupt Ticks</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="425" />
+        <location filename="../Gauges/RoundGauge.qml" line="425"/>
         <source>Labels</source>
         <translation>Beschriftungen</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="435" />
+        <location filename="../Gauges/RoundGauge.qml" line="435"/>
         <source>Warnings</source>
         <translation>Warnungen</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="440" />
+        <location filename="../Gauges/RoundGauge.qml" line="440"/>
         <source>Description text</source>
-        <translation>Beschreibungs Text</translation>
+        <translation type="unfinished">Beschreibungs Text</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="448" />
+        <location filename="../Gauges/RoundGauge.qml" line="448"/>
         <source>Delete gauge</source>
-        <translation>Anzeige löschen</translation>
+        <translation type="unfinished">Anzeige löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="502" />
-        <location filename="../Gauges/RoundGauge.qml" line="622" />
-        <location filename="../Gauges/RoundGauge.qml" line="770" />
-        <location filename="../Gauges/RoundGauge.qml" line="971" />
-        <location filename="../Gauges/RoundGauge.qml" line="1106" />
-        <location filename="../Gauges/RoundGauge.qml" line="1307" />
-        <location filename="../Gauges/RoundGauge.qml" line="1535" />
-        <location filename="../Gauges/RoundGauge.qml" line="1746" />
-        <location filename="../Gauges/RoundGauge.qml" line="1923" />
-        <location filename="../Gauges/RoundGauge.qml" line="2110" />
+        <location filename="../Gauges/RoundGauge.qml" line="502"/>
+        <location filename="../Gauges/RoundGauge.qml" line="622"/>
+        <location filename="../Gauges/RoundGauge.qml" line="770"/>
+        <location filename="../Gauges/RoundGauge.qml" line="971"/>
+        <location filename="../Gauges/RoundGauge.qml" line="1106"/>
+        <location filename="../Gauges/RoundGauge.qml" line="1307"/>
+        <location filename="../Gauges/RoundGauge.qml" line="1535"/>
+        <location filename="../Gauges/RoundGauge.qml" line="1746"/>
+        <location filename="../Gauges/RoundGauge.qml" line="1923"/>
+        <location filename="../Gauges/RoundGauge.qml" line="2110"/>
         <source>Close menu</source>
-        <translation>Menü schliessen</translation>
+        <translation type="unfinished">Menü schliessen</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="530" />
+        <location filename="../Gauges/RoundGauge.qml" line="530"/>
         <source>Gauge size</source>
-        <translation>Anzeigen Größe</translation>
+        <translation type="unfinished">Anzeigen Größe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="566" />
+        <location filename="../Gauges/RoundGauge.qml" line="566"/>
         <source>Backround color</source>
-        <translation>Hintergrund Farbe</translation>
+        <translation type="unfinished">Hintergrund Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="601" />
+        <location filename="../Gauges/RoundGauge.qml" line="601"/>
         <source>Needle visible</source>
-        <translation>Nadel Sichtbarkeit</translation>
+        <translation type="unfinished">Nadel Sichtbarkeit</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="608" />
+        <location filename="../Gauges/RoundGauge.qml" line="608"/>
         <source>Needle button visible</source>
-        <translation>Knopf Sichtbarkeit</translation>
+        <translation type="unfinished">Knopf Sichtbarkeit</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="615" />
+        <location filename="../Gauges/RoundGauge.qml" line="615"/>
         <source>Outer ring visible</source>
-        <translation>Ring Sichtbarkeit</translation>
+        <translation type="unfinished">Ring Sichtbarkeit</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="646" />
+        <location filename="../Gauges/RoundGauge.qml" line="646"/>
         <source>Start value</source>
-        <translation>Start Wert</translation>
+        <translation type="unfinished">Start Wert</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="679" />
+        <location filename="../Gauges/RoundGauge.qml" line="679"/>
         <source>End value</source>
-        <translation>End Wert</translation>
+        <translation type="unfinished">End Wert</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="712" />
+        <location filename="../Gauges/RoundGauge.qml" line="712"/>
         <source>Start angle</source>
-        <translation>Start Winkel</translation>
+        <translation type="unfinished">Start Winkel</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="742" />
+        <location filename="../Gauges/RoundGauge.qml" line="742"/>
         <source>End angle</source>
-        <translation>End Winkel</translation>
+        <translation type="unfinished">End Winkel</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="796" />
+        <location filename="../Gauges/RoundGauge.qml" line="796"/>
         <source>Needle color</source>
-        <translation>Nadel Farbe</translation>
+        <translation type="unfinished">Nadel Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="859" />
+        <location filename="../Gauges/RoundGauge.qml" line="859"/>
         <source>Needle lenght</source>
-        <translation>Nadel Länge</translation>
+        <translation type="unfinished">Nadel Länge</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="886" />
+        <location filename="../Gauges/RoundGauge.qml" line="886"/>
         <source>Needle base width</source>
-        <translation>Nadel basis breite</translation>
+        <translation type="unfinished">Nadel basis breite</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="914" />
+        <location filename="../Gauges/RoundGauge.qml" line="914"/>
         <source>Needle tip width</source>
-        <translation>Nadel Spitzen breite</translation>
+        <translation type="unfinished">Nadel Spitzen breite</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="943" />
+        <location filename="../Gauges/RoundGauge.qml" line="943"/>
         <source>Needle offset</source>
-        <translation>Nadel offset</translation>
+        <translation type="unfinished">Nadel offset</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="995" />
+        <location filename="../Gauges/RoundGauge.qml" line="995"/>
         <source>Outer needle trail</source>
-        <translation>Oberer Nadel Schweif</translation>
+        <translation type="unfinished">Oberer Nadel Schweif</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1034" />
+        <location filename="../Gauges/RoundGauge.qml" line="1034"/>
         <source>Middle needle trail</source>
-        <translation>Mittlerer Nadel Schweif</translation>
+        <translation type="unfinished">Mittlerer Nadel Schweif</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1070" />
+        <location filename="../Gauges/RoundGauge.qml" line="1070"/>
         <source>Lower needle trail</source>
-        <translation>Unterer Nadel Schweif</translation>
+        <translation type="unfinished">Unterer Nadel Schweif</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1129" />
+        <location filename="../Gauges/RoundGauge.qml" line="1129"/>
         <source>Minor tickmark height</source>
-        <translation>Tick Höhe</translation>
+        <translation type="unfinished">Tick Höhe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1157" />
+        <location filename="../Gauges/RoundGauge.qml" line="1157"/>
         <source>Minor tickmark width</source>
-        <translation>Tick Breite</translation>
+        <translation type="unfinished">Tick Breite</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1184" />
+        <location filename="../Gauges/RoundGauge.qml" line="1184"/>
         <source>Minor tickmark steps</source>
-        <translation>Tick Schritte</translation>
+        <translation type="unfinished">Tick Schritte</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1213" />
+        <location filename="../Gauges/RoundGauge.qml" line="1213"/>
         <source>Minor tickmark inset</source>
-        <translation>Tick Einsatz</translation>
+        <translation type="unfinished">Tick Einsatz</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1239" />
+        <location filename="../Gauges/RoundGauge.qml" line="1239"/>
         <source>Minor tick active color</source>
-        <translation>Tick aktiv Farbe</translation>
+        <translation type="unfinished">Tick aktiv Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1273" />
+        <location filename="../Gauges/RoundGauge.qml" line="1273"/>
         <source>Minor tick inactive color</source>
-        <translation>Untergeordnete Tick inaktiv Farbe</translation>
+        <translation type="unfinished">Untergeordnete Tick inaktiv Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1335" />
+        <location filename="../Gauges/RoundGauge.qml" line="1335"/>
         <source>Major tick steps</source>
-        <translation>Haupt Ticks schritte</translation>
+        <translation type="unfinished">Haupt Ticks schritte</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1374" />
+        <location filename="../Gauges/RoundGauge.qml" line="1374"/>
         <source>Major tickmark height</source>
-        <translation>Haupt Ticks Höhe</translation>
+        <translation type="unfinished">Haupt Ticks Höhe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1404" />
+        <location filename="../Gauges/RoundGauge.qml" line="1404"/>
         <source>Major tickmark width</source>
-        <translation>Haupt Ticks Einsatz</translation>
+        <translation type="unfinished">Haupt Ticks Einsatz</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1435" />
+        <location filename="../Gauges/RoundGauge.qml" line="1435"/>
         <source>Major tickmark inset</source>
-        <translation>Haupt Ticks Einsatz</translation>
+        <translation type="unfinished">Haupt Ticks Einsatz</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1467" />
+        <location filename="../Gauges/RoundGauge.qml" line="1467"/>
         <source>Tickmark active color</source>
-        <translation>Ticks aktiv Farbe</translation>
+        <translation type="unfinished">Ticks aktiv Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1501" />
+        <location filename="../Gauges/RoundGauge.qml" line="1501"/>
         <source>Tickmark inactive color</source>
-        <translation>Ticks inaktiv Farbe</translation>
+        <translation type="unfinished">Ticks inaktiv Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1560" />
+        <location filename="../Gauges/RoundGauge.qml" line="1560"/>
         <source>Major label steps</source>
-        <translation>Haupt Label Schritte</translation>
+        <translation type="unfinished">Haupt Label Schritte</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1594" />
+        <location filename="../Gauges/RoundGauge.qml" line="1594"/>
         <source>Label size</source>
-        <translation>Label Größe</translation>
+        <translation type="unfinished">Label Größe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1625" />
+        <location filename="../Gauges/RoundGauge.qml" line="1625"/>
         <source>Label inset</source>
-        <translation>Label Einsatz</translation>
+        <translation type="unfinished">Label Einsatz</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1654" />
+        <location filename="../Gauges/RoundGauge.qml" line="1654"/>
         <source>Label Font</source>
-        <translation>Label Schriftart</translation>
+        <translation type="unfinished">Label Schriftart</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1678" />
+        <location filename="../Gauges/RoundGauge.qml" line="1678"/>
         <source>Label active color</source>
-        <translation>Label aktiv Farbe</translation>
+        <translation type="unfinished">Label aktiv Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1712" />
+        <location filename="../Gauges/RoundGauge.qml" line="1712"/>
         <source>Label inactive color</source>
-        <translation>Label inaktiv Farbe</translation>
+        <translation type="unfinished">Label inaktiv Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1772" />
+        <location filename="../Gauges/RoundGauge.qml" line="1772"/>
         <source>Low warning trigger</source>
-        <translation>Unterer Warnungs Trigger</translation>
+        <translation type="unfinished">Unterer Warnungs Trigger</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1800" />
+        <location filename="../Gauges/RoundGauge.qml" line="1800"/>
         <source>High warning trigger</source>
-        <translation>Oberer Warnungs Trigger</translation>
+        <translation type="unfinished">Oberer Warnungs Trigger</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1830" />
+        <location filename="../Gauges/RoundGauge.qml" line="1830"/>
         <source>Red area inset</source>
-        <translation>Rot Bereich Einsatz</translation>
+        <translation type="unfinished">Rot Bereich Einsatz</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1861" />
+        <location filename="../Gauges/RoundGauge.qml" line="1861"/>
         <source>Red start</source>
-        <translation>Rot Start</translation>
+        <translation type="unfinished">Rot Start</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1892" />
+        <location filename="../Gauges/RoundGauge.qml" line="1892"/>
         <source>Red area width</source>
-        <translation>Rot Bereich Breite</translation>
+        <translation type="unfinished">Rot Bereich Breite</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1947" />
+        <location filename="../Gauges/RoundGauge.qml" line="1947"/>
         <source>Horizontal position</source>
-        <translation>Horizontale Position</translation>
+        <translation type="unfinished">Horizontale Position</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="1978" />
+        <location filename="../Gauges/RoundGauge.qml" line="1978"/>
         <source>Vertical position</source>
-        <translation>Vertikale Position</translation>
+        <translation type="unfinished">Vertikale Position</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="2010" />
+        <location filename="../Gauges/RoundGauge.qml" line="2010"/>
         <source>Fontsize</source>
         <translation>Schriftgröße</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="2041" />
+        <location filename="../Gauges/RoundGauge.qml" line="2041"/>
         <source>Font</source>
         <translation>Schriftart</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="2062" />
+        <location filename="../Gauges/RoundGauge.qml" line="2062"/>
         <source>Font color</source>
         <translation>Schrift Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/RoundGauge.qml" line="2096" />
+        <location filename="../Gauges/RoundGauge.qml" line="2096"/>
         <source>Display Text</source>
         <translation>Anzeige Text</translation>
     </message>
@@ -536,140 +536,140 @@
 <context>
     <name>Screentoggle</name>
     <message>
-        <location filename="../Gauges/Screentoggle.qml" line="37" />
+        <location filename="../Gauges/Screentoggle.qml" line="37"/>
         <source>Press to switch off screen</source>
-        <translation />
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>Squaregauge</name>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="376" />
+        <location filename="../Gauges/Squaregauge.qml" line="376"/>
         <source>Change gauge size</source>
         <translation>Ändere Anzeigen größe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="381" />
+        <location filename="../Gauges/Squaregauge.qml" line="381"/>
         <source>Text font size</source>
         <translation>Text Schriftart größe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="389" />
+        <location filename="../Gauges/Squaregauge.qml" line="389"/>
         <source>Text font style</source>
         <translation>Text Schriftart stil</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="397" />
+        <location filename="../Gauges/Squaregauge.qml" line="397"/>
         <source>Gauge font size</source>
         <translation>Anzeigen Schriftart größe </translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="406" />
+        <location filename="../Gauges/Squaregauge.qml" line="406"/>
         <source>Gauge font style</source>
         <translation>Anzeigen Schriftart stil</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="414" />
+        <location filename="../Gauges/Squaregauge.qml" line="414"/>
         <source>Change main value</source>
         <translation>Ändere haupt wert</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="424" />
+        <location filename="../Gauges/Squaregauge.qml" line="424"/>
         <source>Change sec value</source>
         <translation>Ändere sekundär wert</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="433" />
+        <location filename="../Gauges/Squaregauge.qml" line="433"/>
         <source>Change title</source>
         <translation>Titel Ändern</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="442" />
+        <location filename="../Gauges/Squaregauge.qml" line="442"/>
         <source>Set decimal</source>
         <translation>Dezimal Punkte</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="452" />
+        <location filename="../Gauges/Squaregauge.qml" line="452"/>
         <source>Set bar gauge max</source>
         <translation>Setze Balken Max.</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="461" />
+        <location filename="../Gauges/Squaregauge.qml" line="461"/>
         <source>Toggle sec value</source>
         <translation>Umschalten sekundär Wert</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="473" />
+        <location filename="../Gauges/Squaregauge.qml" line="473"/>
         <source>Toggle vertical bar gauge</source>
         <translation>Umschalten vertikaler Balken</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="488" />
+        <location filename="../Gauges/Squaregauge.qml" line="488"/>
         <source>Toggle horizontal bar gauge</source>
         <translation>Umschalten horizontaler Balken</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="502" />
+        <location filename="../Gauges/Squaregauge.qml" line="502"/>
         <source>Set min warning</source>
         <translation>Setze min Warnung</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="512" />
+        <location filename="../Gauges/Squaregauge.qml" line="512"/>
         <source>Set max warning</source>
         <translation>Setze max Warnung</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="521" />
+        <location filename="../Gauges/Squaregauge.qml" line="521"/>
         <source>Change unit symbol</source>
         <translation>Ändere Symboleinheit</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="526" />
+        <location filename="../Gauges/Squaregauge.qml" line="526"/>
         <source>remove gauge</source>
         <translation>Anzeige löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="535" />
+        <location filename="../Gauges/Squaregauge.qml" line="535"/>
         <source>small</source>
         <translation>klein</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="543" />
+        <location filename="../Gauges/Squaregauge.qml" line="543"/>
         <source>medium</source>
         <translation>mittel</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="551" />
+        <location filename="../Gauges/Squaregauge.qml" line="551"/>
         <source>large</source>
         <translation>groß</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="559" />
+        <location filename="../Gauges/Squaregauge.qml" line="559"/>
         <source>custom</source>
         <translation>benutzerdefiniert</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="573" />
+        <location filename="../Gauges/Squaregauge.qml" line="573"/>
         <source>None</source>
         <translation>Kein</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="668" />
-        <location filename="../Gauges/Squaregauge.qml" line="699" />
+        <location filename="../Gauges/Squaregauge.qml" line="668"/>
+        <location filename="../Gauges/Squaregauge.qml" line="699"/>
         <source>Apply</source>
         <translation>Übernehmen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Squaregauge.qml" line="727" />
-        <location filename="../Gauges/Squaregauge.qml" line="761" />
-        <location filename="../Gauges/Squaregauge.qml" line="809" />
-        <location filename="../Gauges/Squaregauge.qml" line="836" />
-        <location filename="../Gauges/Squaregauge.qml" line="867" />
-        <location filename="../Gauges/Squaregauge.qml" line="899" />
-        <location filename="../Gauges/Squaregauge.qml" line="924" />
-        <location filename="../Gauges/Squaregauge.qml" line="956" />
-        <location filename="../Gauges/Squaregauge.qml" line="984" />
-        <location filename="../Gauges/Squaregauge.qml" line="1013" />
+        <location filename="../Gauges/Squaregauge.qml" line="727"/>
+        <location filename="../Gauges/Squaregauge.qml" line="761"/>
+        <location filename="../Gauges/Squaregauge.qml" line="809"/>
+        <location filename="../Gauges/Squaregauge.qml" line="836"/>
+        <location filename="../Gauges/Squaregauge.qml" line="867"/>
+        <location filename="../Gauges/Squaregauge.qml" line="899"/>
+        <location filename="../Gauges/Squaregauge.qml" line="924"/>
+        <location filename="../Gauges/Squaregauge.qml" line="956"/>
+        <location filename="../Gauges/Squaregauge.qml" line="984"/>
+        <location filename="../Gauges/Squaregauge.qml" line="1013"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -677,40 +677,40 @@
 <context>
     <name>StateGIF</name>
     <message>
-        <location filename="../Gauges/StateGIF.qml" line="116" />
-        <location filename="../Gauges/StateGIF.qml" line="144" />
+        <location filename="../Gauges/StateGIF.qml" line="116"/>
+        <location filename="../Gauges/StateGIF.qml" line="144"/>
         <source>Image</source>
         <translation>Aus</translation>
     </message>
     <message>
-        <location filename="../Gauges/StateGIF.qml" line="116" />
-        <location filename="../Gauges/StateGIF.qml" line="199" />
+        <location filename="../Gauges/StateGIF.qml" line="116"/>
+        <location filename="../Gauges/StateGIF.qml" line="199"/>
         <source>OFF</source>
         <translation>Aus</translation>
     </message>
     <message>
-        <location filename="../Gauges/StateGIF.qml" line="144" />
+        <location filename="../Gauges/StateGIF.qml" line="144"/>
         <source>ON</source>
         <translation>An</translation>
     </message>
     <message>
-        <location filename="../Gauges/StateGIF.qml" line="173" />
+        <location filename="../Gauges/StateGIF.qml" line="173"/>
         <source>Source</source>
         <translation>Datenquelle</translation>
     </message>
     <message>
-        <location filename="../Gauges/StateGIF.qml" line="187" />
-        <location filename="../Gauges/StateGIF.qml" line="199" />
+        <location filename="../Gauges/StateGIF.qml" line="187"/>
+        <location filename="../Gauges/StateGIF.qml" line="199"/>
         <source>Trigger</source>
         <translation>Trigger</translation>
     </message>
     <message>
-        <location filename="../Gauges/StateGIF.qml" line="214" />
+        <location filename="../Gauges/StateGIF.qml" line="214"/>
         <source>Delete image</source>
         <translation>Bild löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/StateGIF.qml" line="220" />
+        <location filename="../Gauges/StateGIF.qml" line="220"/>
         <source>Close</source>
         <translation>Schliessen</translation>
     </message>
@@ -718,32 +718,32 @@
 <context>
     <name>Statepicture</name>
     <message>
-        <location filename="../Gauges/Statepicture.qml" line="111" />
+        <location filename="../Gauges/Statepicture.qml" line="111"/>
         <source>Image off</source>
         <translation>Bild aus</translation>
     </message>
     <message>
-        <location filename="../Gauges/Statepicture.qml" line="139" />
+        <location filename="../Gauges/Statepicture.qml" line="139"/>
         <source>Image on</source>
         <translation>Bild an</translation>
     </message>
     <message>
-        <location filename="../Gauges/Statepicture.qml" line="168" />
+        <location filename="../Gauges/Statepicture.qml" line="168"/>
         <source>Source</source>
         <translation>Datenquelle</translation>
     </message>
     <message>
-        <location filename="../Gauges/Statepicture.qml" line="182" />
+        <location filename="../Gauges/Statepicture.qml" line="182"/>
         <source>Trigger</source>
         <translation>Trigger</translation>
     </message>
     <message>
-        <location filename="../Gauges/Statepicture.qml" line="196" />
+        <location filename="../Gauges/Statepicture.qml" line="196"/>
         <source>Delete image</source>
         <translation>Bild löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Statepicture.qml" line="202" />
+        <location filename="../Gauges/Statepicture.qml" line="202"/>
         <source>Close</source>
         <translation>Schliessen</translation>
     </message>
@@ -751,150 +751,150 @@
 <context>
     <name>Userdash1</name>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="275" />
+        <location filename="../Gauges/Userdash1.qml" line="275"/>
         <source>RPM2</source>
         <translation>Stil</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="275" />
-        <location filename="../Gauges/Userdash1.qml" line="284" />
+        <location filename="../Gauges/Userdash1.qml" line="275"/>
+        <location filename="../Gauges/Userdash1.qml" line="284"/>
         <source>Style</source>
         <translation>Stil</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="284" />
-        <location filename="../Gauges/Userdash1.qml" line="377" />
+        <location filename="../Gauges/Userdash1.qml" line="284"/>
+        <location filename="../Gauges/Userdash1.qml" line="377"/>
         <source>None</source>
         <translation>Kein</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="297" />
-        <location filename="../Gauges/Userdash1.qml" line="326" />
-        <location filename="../Gauges/Userdash1.qml" line="738" />
+        <location filename="../Gauges/Userdash1.qml" line="297"/>
+        <location filename="../Gauges/Userdash1.qml" line="326"/>
+        <location filename="../Gauges/Userdash1.qml" line="738"/>
         <source>Backround</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="297" />
-        <location filename="../Gauges/Userdash1.qml" line="572" />
-        <location filename="../Gauges/Userdash1.qml" line="585" />
+        <location filename="../Gauges/Userdash1.qml" line="297"/>
+        <location filename="../Gauges/Userdash1.qml" line="572"/>
+        <location filename="../Gauges/Userdash1.qml" line="585"/>
         <source>Image</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="326" />
+        <location filename="../Gauges/Userdash1.qml" line="326"/>
         <source>Color</source>
         <translation>Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="368" />
+        <location filename="../Gauges/Userdash1.qml" line="368"/>
         <source>Extra:</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="391" />
-        <location filename="../Gauges/Userdash1.qml" line="752" />
+        <location filename="../Gauges/Userdash1.qml" line="391"/>
+        <location filename="../Gauges/Userdash1.qml" line="752"/>
         <source>Close</source>
         <translation>Schliessen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="519" />
+        <location filename="../Gauges/Userdash1.qml" line="519"/>
         <source>Square</source>
         <translation>Quadrat</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="533" />
+        <location filename="../Gauges/Userdash1.qml" line="533"/>
         <source>Bar</source>
         <translation>Bar</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="546" />
+        <location filename="../Gauges/Userdash1.qml" line="546"/>
         <source>Round</source>
         <translation>Rund</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="559" />
+        <location filename="../Gauges/Userdash1.qml" line="559"/>
         <source>Text</source>
         <translation>Text</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="585" />
-        <location filename="../Gauges/Userdash1.qml" line="599" />
+        <location filename="../Gauges/Userdash1.qml" line="585"/>
+        <location filename="../Gauges/Userdash1.qml" line="599"/>
         <source>State</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="599" />
+        <location filename="../Gauges/Userdash1.qml" line="599"/>
         <source>GIF</source>
         <translation>GIF</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="612" />
+        <location filename="../Gauges/Userdash1.qml" line="612"/>
         <source>Save</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="625" />
+        <location filename="../Gauges/Userdash1.qml" line="625"/>
         <source>Colors</source>
         <translation>Farben</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="636" />
+        <location filename="../Gauges/Userdash1.qml" line="636"/>
         <source>Clear</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="653" />
+        <location filename="../Gauges/Userdash1.qml" line="653"/>
         <source>Import</source>
         <translation>Importieren</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="685" />
+        <location filename="../Gauges/Userdash1.qml" line="685"/>
         <source>Export</source>
         <translation>Exportieren</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="705" />
+        <location filename="../Gauges/Userdash1.qml" line="705"/>
         <source>Load</source>
         <translation>Laden</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="722" />
+        <location filename="../Gauges/Userdash1.qml" line="722"/>
         <source>Cancel</source>
         <translation>Abbruch</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="1220" />
+        <location filename="../Gauges/Userdash1.qml" line="1220"/>
         <source>Frame color</source>
         <translation>Rahmen Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="1224" />
+        <location filename="../Gauges/Userdash1.qml" line="1224"/>
         <source>Titlebar color</source>
         <translation>Titel Bar Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="1228" />
+        <location filename="../Gauges/Userdash1.qml" line="1228"/>
         <source>Backround color</source>
         <translation>Hintergrund Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="1333" />
+        <location filename="../Gauges/Userdash1.qml" line="1333"/>
         <source>Bargauge color</source>
         <translation>Bar Anzeige Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="1337" />
+        <location filename="../Gauges/Userdash1.qml" line="1337"/>
         <source>Title text color</source>
         <translation>Titel Text Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="1341" />
+        <location filename="../Gauges/Userdash1.qml" line="1341"/>
         <source>Main text color</source>
         <translation>Haupt Text Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash1.qml" line="1455" />
+        <location filename="../Gauges/Userdash1.qml" line="1455"/>
         <source>Close menu</source>
         <translation>Menü schliessen</translation>
     </message>
@@ -902,150 +902,150 @@
 <context>
     <name>Userdash2</name>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="269" />
+        <location filename="../Gauges/Userdash2.qml" line="269"/>
         <source>RPM2</source>
         <translation>Stil</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="269" />
-        <location filename="../Gauges/Userdash2.qml" line="278" />
+        <location filename="../Gauges/Userdash2.qml" line="269"/>
+        <location filename="../Gauges/Userdash2.qml" line="278"/>
         <source>Style</source>
         <translation>Stil</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="278" />
-        <location filename="../Gauges/Userdash2.qml" line="371" />
+        <location filename="../Gauges/Userdash2.qml" line="278"/>
+        <location filename="../Gauges/Userdash2.qml" line="371"/>
         <source>None</source>
         <translation>Kein</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="291" />
-        <location filename="../Gauges/Userdash2.qml" line="320" />
-        <location filename="../Gauges/Userdash2.qml" line="672" />
+        <location filename="../Gauges/Userdash2.qml" line="291"/>
+        <location filename="../Gauges/Userdash2.qml" line="320"/>
+        <location filename="../Gauges/Userdash2.qml" line="672"/>
         <source>Backround</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="291" />
-        <location filename="../Gauges/Userdash2.qml" line="507" />
-        <location filename="../Gauges/Userdash2.qml" line="520" />
+        <location filename="../Gauges/Userdash2.qml" line="291"/>
+        <location filename="../Gauges/Userdash2.qml" line="507"/>
+        <location filename="../Gauges/Userdash2.qml" line="520"/>
         <source>Image</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="320" />
+        <location filename="../Gauges/Userdash2.qml" line="320"/>
         <source>Color</source>
         <translation>Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="362" />
+        <location filename="../Gauges/Userdash2.qml" line="362"/>
         <source>Extra:</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="385" />
-        <location filename="../Gauges/Userdash2.qml" line="685" />
+        <location filename="../Gauges/Userdash2.qml" line="385"/>
+        <location filename="../Gauges/Userdash2.qml" line="685"/>
         <source>Close</source>
         <translation>Schliessen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="455" />
+        <location filename="../Gauges/Userdash2.qml" line="455"/>
         <source>Square</source>
         <translation>Quadrat</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="468" />
+        <location filename="../Gauges/Userdash2.qml" line="468"/>
         <source>Bar</source>
         <translation>Bar</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="481" />
+        <location filename="../Gauges/Userdash2.qml" line="481"/>
         <source>Round</source>
         <translation>Rund</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="494" />
+        <location filename="../Gauges/Userdash2.qml" line="494"/>
         <source>Text</source>
         <translation>Text</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="520" />
-        <location filename="../Gauges/Userdash2.qml" line="534" />
+        <location filename="../Gauges/Userdash2.qml" line="520"/>
+        <location filename="../Gauges/Userdash2.qml" line="534"/>
         <source>State</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="534" />
+        <location filename="../Gauges/Userdash2.qml" line="534"/>
         <source>GIF</source>
         <translation>GIF</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="547" />
+        <location filename="../Gauges/Userdash2.qml" line="547"/>
         <source>Save</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="560" />
+        <location filename="../Gauges/Userdash2.qml" line="560"/>
         <source>Colors</source>
         <translation>Farben</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="571" />
+        <location filename="../Gauges/Userdash2.qml" line="571"/>
         <source>Clear</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="588" />
+        <location filename="../Gauges/Userdash2.qml" line="588"/>
         <source>Import</source>
         <translation>Importieren</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="620" />
+        <location filename="../Gauges/Userdash2.qml" line="620"/>
         <source>Export</source>
         <translation>Exportieren</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="639" />
+        <location filename="../Gauges/Userdash2.qml" line="639"/>
         <source>Load</source>
         <translation>Laden</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="656" />
+        <location filename="../Gauges/Userdash2.qml" line="656"/>
         <source>Cancel</source>
         <translation>Abbruch</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="1148" />
+        <location filename="../Gauges/Userdash2.qml" line="1148"/>
         <source>Frame color</source>
         <translation>Rahmen Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="1152" />
+        <location filename="../Gauges/Userdash2.qml" line="1152"/>
         <source>Titlebar color</source>
         <translation>Titel Bar Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="1156" />
+        <location filename="../Gauges/Userdash2.qml" line="1156"/>
         <source>Backround color</source>
         <translation>Hintergrund Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="1260" />
+        <location filename="../Gauges/Userdash2.qml" line="1260"/>
         <source>Bargauge color</source>
         <translation>Bar Anzeige Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="1264" />
+        <location filename="../Gauges/Userdash2.qml" line="1264"/>
         <source>Title text color</source>
         <translation>Titel Text Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="1268" />
+        <location filename="../Gauges/Userdash2.qml" line="1268"/>
         <source>Main text color</source>
         <translation>Haupt Text Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash2.qml" line="1382" />
+        <location filename="../Gauges/Userdash2.qml" line="1382"/>
         <source>Close menu</source>
         <translation>Menü schliessen</translation>
     </message>
@@ -1053,150 +1053,150 @@
 <context>
     <name>Userdash3</name>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="271" />
+        <location filename="../Gauges/Userdash3.qml" line="271"/>
         <source>RPM2</source>
         <translation>Stil</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="271" />
-        <location filename="../Gauges/Userdash3.qml" line="280" />
+        <location filename="../Gauges/Userdash3.qml" line="271"/>
+        <location filename="../Gauges/Userdash3.qml" line="280"/>
         <source>Style</source>
         <translation>Stil</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="280" />
-        <location filename="../Gauges/Userdash3.qml" line="373" />
+        <location filename="../Gauges/Userdash3.qml" line="280"/>
+        <location filename="../Gauges/Userdash3.qml" line="373"/>
         <source>None</source>
         <translation>Kein</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="293" />
-        <location filename="../Gauges/Userdash3.qml" line="322" />
-        <location filename="../Gauges/Userdash3.qml" line="675" />
+        <location filename="../Gauges/Userdash3.qml" line="293"/>
+        <location filename="../Gauges/Userdash3.qml" line="322"/>
+        <location filename="../Gauges/Userdash3.qml" line="675"/>
         <source>Backround</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="293" />
-        <location filename="../Gauges/Userdash3.qml" line="509" />
-        <location filename="../Gauges/Userdash3.qml" line="522" />
+        <location filename="../Gauges/Userdash3.qml" line="293"/>
+        <location filename="../Gauges/Userdash3.qml" line="509"/>
+        <location filename="../Gauges/Userdash3.qml" line="522"/>
         <source>Image</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="322" />
+        <location filename="../Gauges/Userdash3.qml" line="322"/>
         <source>Color</source>
         <translation>Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="364" />
+        <location filename="../Gauges/Userdash3.qml" line="364"/>
         <source>Extra:</source>
-        <translation />
+        <translation></translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="387" />
-        <location filename="../Gauges/Userdash3.qml" line="688" />
+        <location filename="../Gauges/Userdash3.qml" line="387"/>
+        <location filename="../Gauges/Userdash3.qml" line="688"/>
         <source>Close</source>
         <translation>Schliessen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="457" />
+        <location filename="../Gauges/Userdash3.qml" line="457"/>
         <source>Square</source>
         <translation>Quadrat</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="470" />
+        <location filename="../Gauges/Userdash3.qml" line="470"/>
         <source>Bar</source>
         <translation>Bar</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="483" />
+        <location filename="../Gauges/Userdash3.qml" line="483"/>
         <source>Round</source>
         <translation>Rund</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="496" />
+        <location filename="../Gauges/Userdash3.qml" line="496"/>
         <source>Text</source>
         <translation>Text</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="522" />
-        <location filename="../Gauges/Userdash3.qml" line="536" />
+        <location filename="../Gauges/Userdash3.qml" line="522"/>
+        <location filename="../Gauges/Userdash3.qml" line="536"/>
         <source>State</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="536" />
+        <location filename="../Gauges/Userdash3.qml" line="536"/>
         <source>GIF</source>
         <translation>GIF</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="549" />
+        <location filename="../Gauges/Userdash3.qml" line="549"/>
         <source>Save</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="562" />
+        <location filename="../Gauges/Userdash3.qml" line="562"/>
         <source>Colors</source>
         <translation>Farben</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="573" />
+        <location filename="../Gauges/Userdash3.qml" line="573"/>
         <source>Clear</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="590" />
+        <location filename="../Gauges/Userdash3.qml" line="590"/>
         <source>Import</source>
         <translation>Importieren</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="622" />
+        <location filename="../Gauges/Userdash3.qml" line="622"/>
         <source>Export</source>
         <translation>Exportieren</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="642" />
+        <location filename="../Gauges/Userdash3.qml" line="642"/>
         <source>Load</source>
         <translation>Laden</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="659" />
+        <location filename="../Gauges/Userdash3.qml" line="659"/>
         <source>Cancel</source>
         <translation>Abbruch</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="1151" />
+        <location filename="../Gauges/Userdash3.qml" line="1151"/>
         <source>Frame color</source>
         <translation>Rahmen Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="1155" />
+        <location filename="../Gauges/Userdash3.qml" line="1155"/>
         <source>Titlebar color</source>
         <translation>Titel Bar Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="1159" />
+        <location filename="../Gauges/Userdash3.qml" line="1159"/>
         <source>Backround color</source>
         <translation>Hintergrund Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="1263" />
+        <location filename="../Gauges/Userdash3.qml" line="1263"/>
         <source>Bargauge color</source>
         <translation>Bar Anzeige Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="1267" />
+        <location filename="../Gauges/Userdash3.qml" line="1267"/>
         <source>Title text color</source>
         <translation>Titel Text Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="1271" />
+        <location filename="../Gauges/Userdash3.qml" line="1271"/>
         <source>Main text color</source>
         <translation>Haupt Text Farbe</translation>
     </message>
     <message>
-        <location filename="../Gauges/Userdash3.qml" line="1385" />
+        <location filename="../Gauges/Userdash3.qml" line="1385"/>
         <source>Close menu</source>
         <translation>Menü schliessen</translation>
     </message>
@@ -1204,37 +1204,37 @@
 <context>
     <name>Verticalbargauge</name>
     <message>
-        <location filename="../Gauges/Verticalbargauge.qml" line="82" />
+        <location filename="../Gauges/Verticalbargauge.qml" line="82"/>
         <source>max value</source>
         <translation>Maximal Wert</translation>
     </message>
     <message>
-        <location filename="../Gauges/Verticalbargauge.qml" line="90" />
+        <location filename="../Gauges/Verticalbargauge.qml" line="90"/>
         <source>min value</source>
         <translation>Minimal Wert</translation>
     </message>
     <message>
-        <location filename="../Gauges/Verticalbargauge.qml" line="98" />
+        <location filename="../Gauges/Verticalbargauge.qml" line="98"/>
         <source>Set decimal</source>
         <translation>Dezimal Punkte</translation>
     </message>
     <message>
-        <location filename="../Gauges/Verticalbargauge.qml" line="124" />
+        <location filename="../Gauges/Verticalbargauge.qml" line="124"/>
         <source>Change title</source>
         <translation>Titel Ändern</translation>
     </message>
     <message>
-        <location filename="../Gauges/Verticalbargauge.qml" line="132" />
+        <location filename="../Gauges/Verticalbargauge.qml" line="132"/>
         <source>remove gauge</source>
         <translation>Anzeige löschen</translation>
     </message>
     <message>
-        <location filename="../Gauges/Verticalbargauge.qml" line="156" />
-        <location filename="../Gauges/Verticalbargauge.qml" line="182" />
-        <location filename="../Gauges/Verticalbargauge.qml" line="205" />
-        <location filename="../Gauges/Verticalbargauge.qml" line="232" />
-        <location filename="../Gauges/Verticalbargauge.qml" line="259" />
-        <location filename="../Gauges/Verticalbargauge.qml" line="286" />
+        <location filename="../Gauges/Verticalbargauge.qml" line="156"/>
+        <location filename="../Gauges/Verticalbargauge.qml" line="182"/>
+        <location filename="../Gauges/Verticalbargauge.qml" line="205"/>
+        <location filename="../Gauges/Verticalbargauge.qml" line="232"/>
+        <location filename="../Gauges/Verticalbargauge.qml" line="259"/>
+        <location filename="../Gauges/Verticalbargauge.qml" line="286"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
